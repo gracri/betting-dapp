@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import CasinoDapp from '@/components/casino-dapp'
+import CasinoDapp from '@/components/Casino-dapp'
 
 Vue.use(Router)
 
